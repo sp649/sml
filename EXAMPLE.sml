@@ -35,4 +35,4 @@ Home: ${home}
 ]] NOTE: like $[] you cant use them in normals statments only values, also you have to have spaces between $( and )$
 value command $( dbus-launch dwm )$
 
-
+dwm: ${command}
