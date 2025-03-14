@@ -32,7 +32,7 @@ Home: ${home}
 
 ]] you can do something with $( command )$ to execute a sh command
 
-]] NOTE: like $[] you cant use them in normals statments only values, also you have to have spaces between $( and )$
-value command $( dbus-launch dwm )$
+]] NOTE: like $[] you cant use them in normals statments only values, also you have to have spaces between $( and )$ and you can use ${} variables too
+value command $( dbus-launch dwm && cd ${home} )$
 
 dwm: ${command}
