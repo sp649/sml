@@ -1,5 +1,4 @@
-# sml
-## Simple Mark-Down Language
+# sml - Simple Mark-Down Language
 
 #### Why should I use this over something such as toml, yaml, or json?
 Well, if you like the syntax then id reccomend it, how ever it may have less support than others
@@ -8,7 +7,7 @@ my golang bindings (wip) [https://github.com/sp649/sml-go](https://github.com/sp
 #### Whats its purpose?
 I think it will be good for config files, package manager packages, ect. I am trying to make it usable for those things.
 
-### Example: 
+# Example: 
 ```
 ]] adds a file to be parsed on to the original and can be used anywhere but it is reccomended to be kept at the top 
 add /path/to/file.sml
