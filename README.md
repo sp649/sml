@@ -4,7 +4,7 @@
 #### Why should I use this over something such as toml, yaml, or json?
 Well, if you like the syntax then id reccomend it, how ever it may have less support than others
 #### What parser libarys are around?
-my very own bindings (wip) [https://github.com/sp649/sml-go]([url](https://github.com/sp649/sml-go))
+my very own bindings (wip) [https://github.com/sp649/sml-go](https://github.com/sp649/sml-go)
 #### Whats its purpose?
 I think it will be good for config files, package manager packages, ect. I am trying to make it usable for those things.
 
