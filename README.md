@@ -6,6 +6,8 @@ Well, if you like the syntax then id reccomend it, how ever it may have less sup
 my golang bindings (wip) [https://github.com/sp649/sml-go](https://github.com/sp649/sml-go)
 #### Whats its purpose?
 I think it will be good for config files, package manager packages, ect. I am trying to make it usable for those things.
+#### Why did you pick the unlicense license?
+I picked it because of FOSS, you dont have too but I would be very happy if when making bindings for sml you also use this license! :D
 
 ### Example: 
 ```
