@@ -7,7 +7,7 @@ my golang bindings (wip) [https://github.com/sp649/sml-go](https://github.com/sp
 #### Whats its purpose?
 I think it will be good for config files, package manager packages, ect. I am trying to make it usable for those things.
 
-# Example: 
+### Example: 
 ```
 ]] adds a file to be parsed on to the original and can be used anywhere but it is reccomended to be kept at the top 
 add /path/to/file.sml
